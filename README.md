@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Frontend Developer Banner](https://i.ibb.co/8gkwPwww/Brown-Black-Geometric-Personal-Branding-Linked-In-Banner.png)
+<img src="https://i.ibb.co/8gkwPwww/Brown-Black-Geometric-Personal-Branding-Linked-In-Banner.png" alt="Frontend Developer Banner" style="width:100%; height:auto; border-radius:10px;">
+
 
 <h1 align="center">👋 Hey, I'm <span style="color:#FF6B6B;">Golam Easin</span></h1>
 <h3 align="center">🚀 Frontend Developer | Crafting Modern & Interactive Web Experiences</h3>
