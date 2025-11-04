@@ -1,7 +1,6 @@
 <!-- Banner -->
 <img src="https://i.ibb.co/8gkwPwww/Brown-Black-Geometric-Personal-Branding-Linked-In-Banner.png" alt="Frontend Developer Banner" style="width:100%; height:auto; border-radius:10px;">
 
-
 <h1 align="center">👋 Hey, I'm <span style="color:#FF6B6B;">Golam Easin</span></h1>
 <h3 align="center">🚀 Frontend Developer | Crafting Modern & Interactive Web Experiences</h3>
 
@@ -33,9 +32,27 @@ I love building **modern**, **responsive**, and **user-focused** web interfaces 
 ---
 
 ## 💼 Projects & Interests  
-- 🧩 Building **reusable components** & **UI libraries**  
-- 🌐 Experimenting with **Next.js** for SSR & SEO optimization  
-- 🎨 Learning **UI/UX design** to improve usability & aesthetics  
+
+Here are some of my live projects and resources I've worked on:  
+
+| Project | Description | Live Demo | Source Code |
+|---------|-------------|-----------|-------------|
+| **Portfolio Website** | My personal portfolio built with React & Tailwind CSS | [View Live](https://inspiring-manatee-3d598f.netlify.app/) | [GitHub Repo](https://github.com/golameasin24/portfolio) |
+| **E-Commerce Store** | A fully responsive online store using React, Redux & Firebase | [View Live](https://awesome-store.netlify.app/) | [GitHub Repo](https://github.com/golameasin24/ecommerce-store) |
+| **Blog Platform** | A modern blog platform built with Next.js & MongoDB | [View Live](https://golam-blog.vercel.app/) | [GitHub Repo](https://github.com/golameasin24/blog-platform) |
+| **Weather App** | Real-time weather info app using React & OpenWeather API | [View Live](https://weather-app-golam.netlify.app/) | [GitHub Repo](https://github.com/golameasin24/weather-app) |
+
+---
+
+## 📚 Resources & Learning  
+
+Here are some of the tools, tutorials, and resources I frequently use:  
+
+- **React Docs**: [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)  
+- **Tailwind CSS Guide**: [https://tailwindcss.com/docs](https://tailwindcss.com/docs)  
+- **JavaScript Info**: [https://javascript.info/](https://javascript.info/)  
+- **FreeCodeCamp**: [https://www.freecodecamp.org/](https://www.freecodecamp.org/)  
+- **Frontend Mentor**: [https://www.frontendmentor.io/](https://www.frontendmentor.io/)  
 
 ---
 
