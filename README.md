@@ -49,21 +49,30 @@ I love building **modern**, **responsive**, and **user-focused** web interfaces 
 
 ## 🌍 Connect With Me  
 
-<p align="center">
-  <a href="https://github.com/golameasin24" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+<p align="center" style="margin-top: 20px;">
+  <!-- GitHub -->
+  <a href="https://github.com/golameasin24" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="40" width="40" alt="GitHub" style="filter: invert(100%);" />
   </a>
-  <a href="https://www.linkedin.com/in/golameasin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/golameasin" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" width="40" alt="LinkedIn" style="filter: invert(43%) sepia(83%) saturate(3160%) hue-rotate(194deg) brightness(92%) contrast(95%);" />
   </a>
-  <a href="https://www.facebook.com/golameasin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="45" />
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/golameasin" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40" width="40" alt="Facebook" style="filter: invert(32%) sepia(99%) saturate(1764%) hue-rotate(205deg) brightness(95%) contrast(97%);" />
   </a>
-  <a href="https://www.youtube.com/@golameasin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="45" />
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@golameasin" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="40" width="40" alt="YouTube" style="filter: invert(20%) sepia(99%) saturate(7350%) hue-rotate(358deg) brightness(94%) contrast(120%);" />
   </a>
+
+  <!-- Portfolio -->
   <a href="https://inspiring-manatee-3d598f.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" height="40" width="40" alt="Portfolio" style="filter: invert(100%);" />
   </a>
 </p>
 
