@@ -103,22 +103,20 @@ Here are some of the tools, tutorials, and resources I frequently use:
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=golameasin24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golameasin24&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=golameasin24&show_icons=true&theme=tokyonight" alt="Golam Easin's GitHub stats" width="48%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub-hb-dev&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+
 
 ---
 
-## 🔥 Streak Stats  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=golameasin24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🎖️ Developer Badges  
 
@@ -132,11 +130,7 @@ Here are some of the tools, tutorials, and resources I frequently use:
 
 ---
 
-## 📈 GitHub Metrics  
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/golameasin24?theme=tokyonight" alt="GitHub Metrics" />
-</p>
 
 ---
 
